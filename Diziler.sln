@@ -19,9 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassProject3", "ClassProje
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneralProject1", "GeneralProject1\GeneralProject1.csproj", "{F92DA335-7DEA-42F2-98D9-A8FD3ED20E28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Constructor\Constructor.csproj", "{95F94D42-EC73-47F4-B985-7036E97119DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor", "Constructor\Constructor.csproj", "{95F94D42-EC73-47F4-B985-7036E97119DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overloading", "Overloading\Overloading.csproj", "{ADB0EC42-112B-4C78-9510-653B54BE2A56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Overloading", "Overloading\Overloading.csproj", "{ADB0EC42-112B-4C78-9510-653B54BE2A56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorTest", "ConstructorTest\ConstructorTest.csproj", "{32F2A3B2-C9EA-4EA6-9655-074522352531}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceType", "ReferenceType\ReferenceType.csproj", "{FB431794-1683-4578-9B1A-B4D14BFD1E55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{ADB0EC42-112B-4C78-9510-653B54BE2A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADB0EC42-112B-4C78-9510-653B54BE2A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADB0EC42-112B-4C78-9510-653B54BE2A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F2A3B2-C9EA-4EA6-9655-074522352531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F2A3B2-C9EA-4EA6-9655-074522352531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F2A3B2-C9EA-4EA6-9655-074522352531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F2A3B2-C9EA-4EA6-9655-074522352531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB431794-1683-4578-9B1A-B4D14BFD1E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB431794-1683-4578-9B1A-B4D14BFD1E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB431794-1683-4578-9B1A-B4D14BFD1E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB431794-1683-4578-9B1A-B4D14BFD1E55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
